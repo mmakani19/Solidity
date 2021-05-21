@@ -4,9 +4,9 @@
 
 ### 1. Remix and Ganache was initiated and Metamask was set to local hosthost and a/c with index 5 was used as sender account and a/c with index 6,7 and 8 were used fro employee accounts. Screenshots are uploaded   
 
-### 2. AssociateProfitSplitter.sol file was created. Codes are put in pdf file. 
+### 2. AssociateProfitSplitter.sol file was created and contract was successfuly compiled. Codes are put in pdf file. 
 
-### 3. Contract was deployed  Remix and to local Ganache chain by connecting to Injected Web3 and ensuring MetaMask is pointed to localhost:8545 with three employee addresses mentioned above. 
+### 3. Contract was deployed  Remix and to local Ganache chain by connecting to Injected Web3 and ensuring MetaMask is pointed to localhost:8545 with three employee addresses mentioned below. 
 
 ### 4. Transaction record was created on Ganache.
 
